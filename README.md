@@ -1,17 +1,25 @@
-# BallOnPlatform_Unity_Game.
-Here I have uploaded Codes and Gameplay video Ball on plartform game which I made while learning Unity from Unity learn. Can't upload all scene settings because github video size limt. But here is the explnation.
+# Ball on Platform - Unity Game
 
-=> Use "w" and "s" to apply force and thereby move ball forward and backward
-=> use "A" and "D" to change direction of camera and remember it will go ahead int the forward direction of camera which actually make it hard to control the ball add unpredectibility.
-=> You have to save your multicoloe ball from blue balls which are trying to push you down from the platform.
-=> You can also use Powerups to push balls away with great force for some specific time.
-=> Below is the link of the game. Have Fun!!
+This is a Unity game I created while learning from **Unity Learn**. The game features a ball navigating a platform while avoiding obstacles and using power-ups.
 
-https://play.unity.com/en/games/cda05034-36c4-4b52-9d5a-1bedc0dec083/ballgamecheck
+## 🎮 Gameplay Video & Code
+I have uploaded the **gameplay video** and **code** here. Due to GitHub's video size limit, I couldn't upload all scene settings.
 
+## 🕹️ Controls
+- **W & S** → Apply force to move the ball **forward and backward**.
+- **A & D** → Change the **camera direction**. The ball moves in the forward direction of the camera, adding difficulty and unpredictability.
 
+## 🎯 Game Objective
+- Control the **multicolored ball** and avoid **blue balls** that try to push you off the platform.
+- Use **Power-ups** to push enemy balls away with great force for a **limited time**.
 
+## 🔗 Play the Game
+🎮 Try out the game here:
+👉 [Play Ball on Platform](https://play.unity.com/en/games/cda05034-36c4-4b52-9d5a-1bedc0dec083/ballgamecheck)
 
+## 📂 Repository Assets
+Gameplay video and code can be found at the following link:
+📌 [Game Files](https://github.com/user-attachments/assets/714f5628-020a-4da5-887b-8cd78c478060)
 
-https://github.com/user-attachments/assets/714f5628-020a-4da5-887b-8cd78c478060
+Enjoy the game! 🚀
 
