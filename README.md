@@ -18,7 +18,7 @@ I have uploaded the **gameplay video** and **code** here. Due to GitHub's video 
 👉 [Play Ball on Platform](https://play.unity.com/en/games/cda05034-36c4-4b52-9d5a-1bedc0dec083/ballgamecheck)
 
 ## 📂 Repository Assets
-Gameplay video and code can be found at the following link:
+Gameplay video can be found at the following link:
 📌 [Game Files](https://github.com/user-attachments/assets/714f5628-020a-4da5-887b-8cd78c478060)
 
 Enjoy the game! 🚀
